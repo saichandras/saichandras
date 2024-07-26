@@ -1,0 +1,79 @@
+<svg width="1000" height="500" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .icon {
+      margin: 10px;
+      transition: transform 0.3s;
+      border-radius: 10px;
+      background-color: white;
+      padding: 10px;
+    }
+    .icon:hover {
+      transform: scale(1.2);
+    }
+  </style>
+  <foreignObject x="0" y="0" width="1000" height="500">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; flex-wrap: wrap; justify-content: center;">
+      <img class="icon" src="https://github.com/user-attachments/assets/8a3d21a7-12ed-42c7-be97-7ec5a242efc4" alt="xcode" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/a67da8a0-bcac-4bf7-ba01-04a958bb3c32" alt="vscode" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/a4301b88-1c2e-4787-8dae-753ad76d935c" alt="typescript" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/d5b7fe07-b865-4d5b-9b0e-ffff24977a26" alt="threejs" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/51869f03-4588-49b2-9d13-772c111d663c" alt="terraform" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/4fcf3a60-98b7-4465-8d14-a7f3f16de7ee" alt="tailwind" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/cea29a93-b405-4201-b389-6715d6592787" alt="swift" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/ef8734e2-e16c-428c-81ff-9f5c80ec326c" alt="sso" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/38678ebe-d5b9-467c-b475-5c4182fa29e0" alt="sqla" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/7dc647dd-5ed6-4d08-a718-0a59ad85e347" alt="sql-server" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/a3c9fdd8-7ef9-4f7a-934c-2a2ddb193a42" alt="saml" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/7d24d7ec-4282-43a7-b4dd-8e0ec6a5129d" alt="reduxSaga" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/e41109f4-0f77-47ff-9b8e-86213d099c48" alt="redux" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/251dbd42-a026-41a7-970e-4a8f53a8f280" alt="redis" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/a16d1d7e-baca-4261-ba28-7d765c0071f8" alt="reactjs" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/188c70ea-5245-4385-a3a1-06ee8d924046" alt="react" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/1aaaacf9-2a1a-4f7a-beda-e1717c7145ce7" alt="rabbitmq" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/f1e58d0e-e2e2-450f-b25c-44d0828f2478" alt="python" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/0f8e3c91-5aa2-4e2a-a2e0-1717c440a661" alt="Preloader" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/4e270ac6-31e4-44a7-8428-7aa1c5c2303f" alt="PostgreSQL" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/4fff048a-04b3-4283-a2da-4563bf0e642c" alt="pl-sql" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/912da14b-9fa9-4381-ab0a-173b73387ee8" alt="php" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/e7a47e7a-923d-4ca1-9e6c-a71b3b9e9cd6" alt="oracle-db" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/33159bdc-1795-469f-91d1-c2fd85d9b727" alt="nodejs" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/f1f33ebf-974a-4fbf-9536-3907968bbd68" alt="nextjs" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/81751345-c2c4-4ba7-9900-863a8cc05c38" alt="mysql" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/df1dd7ed-d022-4d38-bf39-68744e9e4aa7" alt="mui" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/9d71717d-b172-4114-948a-43f38e612b1a" alt="mongoose" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/6a439741-8a5a-43d1-8b73-21ff61a98b58" alt="mongodb" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/82649fb0-ec2f-49b2-8a16-4585dd35b0d0" alt="laravel" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/971137d9-e289-4ddb-bdaa-cadce60eb1a8" alt="kotlin" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/107cafc5-59ee-48d3-b791-e1b3fb4e1512" alt="jwt" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/e1a907c7-a219-43b1-841a-fc8e9a1b811a" alt="json" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/1cb8f2a6-85b5-4d9c-aab2-018002a3fe78" alt="jinja" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/367ac5cd-4637-4d0e-8b2d-0068e73e9f80" alt="jetbrains" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/8cd0fe73-b58c-488b-ba84-c2e0f70ae8c8" alt="javascript" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/7c0d29fa-990b-4125-b1a0-414d473e74e4" alt="java" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/a20bcb64-0e7a-4816-98e8-b30e9f8b246e" alt="html" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/e4700024-1ef2-419e-814f-7c5a0386b5e8" alt="html" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/eac3c7d8-8583-4fd2-96b3-88193a35a7a9" alt="Go" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/ef70d72d-4960-44e6-af50-b63110447d93" alt="gitlab" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/ff9d515c-4066-4534-b075-fe9f1a95eb91" alt="github" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/f29ea50f-b808-469a-b07e-cdc8f5b15ff2" alt="git" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/199a311e-0e5b-4c74-a2a4-4efc6abc0546" alt="gcp" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/40cff1fa-bf2f-425e-916a-c1123aaaacef" alt="fusejs" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/95e57a94-4ec2-418b-afdb-10894f9193e4" alt="flask" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/79ed5931-6f30-49e4-9a54-b8c54aa1990b" alt="file_plsql" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/02b5501a-3678-4a21-86bc-08df560e5c32" alt="figma" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/7b1aedca-9f26-4bcc-8928-9efa5c388026" alt="expressjs" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/5f2f7e11-ffa1-4d2c-98f9-3e25940ee24e" alt="electrode_native" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/4c3c02cc-a48c-4190-a404-0b2e1da2d841" alt="echarts" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/3293496a-c4f2-450c-954f-e8258c74fb79" alt="docker" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/3ff9bb92-0b94-4206-8e95-dd2b00599f2c" alt="cypressjs" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/de0c5bf4-f24c-4625-bf7b-76878dcdca51" alt="css" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/8fc2c07e-da93-47fa-a444-1c09595c375d" alt="circleci" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/4c73cee7-65ea-4094-8226-03797d1fbc79" alt="c" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/4ff39647-7e7b-499b-af16-d2b85056c4e2" alt="bootstrap" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/7ea400d2-dfc3-4d33-a8aa-773c252de9ad" alt="aws" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/18a6c69b-95ec-43c3-a033-bc6336fa4d3a" alt="Angular" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/7d2c98e5-d632-4b4c-8a97-ccad0bbd9a42" alt="android" width="50" height="50" />
+      <img class="icon" src="https://github.com/user-attachments/assets/9fc4a3d1-9da4-4b14-b959-587046b1292d" alt="algolia" width="50" height="50" />
+    </div>
+  </foreignObject>
+</svg>
