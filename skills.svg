@@ -1,4 +1,4 @@
-<svg width="1000" height="500" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="585" xmlns="http://www.w3.org/2000/svg">
   <style>
     .icon {
       margin: 10px;
@@ -11,68 +11,66 @@
       transform: scale(1.2);
     }
   </style>
-  <foreignObject x="0" y="0" width="1000" height="500">
+  <foreignObject x="0" y="0" width="1000" height="585">
     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; flex-wrap: wrap; justify-content: center;">
-      <img class="icon" src="./assets/tech/xcode.png" alt="xcode" width="50" height="50" />
-      <img class="icon" src="./assets/tech/vscode.png" alt="vscode" width="50" height="50" />
-      <img class="icon" src="./assets/tech/typescript.png" alt="typescript" width="50" height="50" />
-      <img class="icon" src="./assets/tech/threejs.png" alt="threejs" width="50" height="50" />
-      <img class="icon" src="./assets/tech/terraform.png" alt="terraform" width="50" height="50" />
-      <img class="icon" src="./assets/tech/tailwind.png" alt="tailwind" width="50" height="50" />
-      <img class="icon" src="./assets/tech/swift.png" alt="swift" width="50" height="50" />
-      <img class="icon" src="./assets/tech/sso.png" alt="sso" width="50" height="50" />
-      <img class="icon" src="./assets/tech/sqla.png" alt="sqla" width="50" height="50" />
-      <img class="icon" src="./assets/tech/sql-server.png" alt="sql-server" width="50" height="50" />
-      <img class="icon" src="./assets/tech/saml.png" alt="saml" width="50" height="50" />
-      <img class="icon" src="./assets/tech/reduxSaga.png" alt="reduxSaga" width="50" height="50" />
-      <img class="icon" src="./assets/tech/redux.png" alt="redux" width="50" height="50" />
-      <img class="icon" src="./assets/tech/redis.png" alt="redis" width="50" height="50" />
-      <img class="icon" src="./assets/tech/reactjs.png" alt="reactjs" width="50" height="50" />
-      <img class="icon" src="./assets/tech/react.png" alt="react" width="50" height="50" />
-      <img class="icon" src="./assets/tech/rabbitmq.png" alt="rabbitmq" width="50" height="50" />
-      <img class="icon" src="./assets/tech/python.png" alt="python" width="50" height="50" />
-      <img class="icon" src="./assets/tech/preloader.png" alt="Preloader" width="50" height="50" />
-      <img class="icon" src="./assets/tech/postgresql.png" alt="PostgreSQL" width="50" height="50" />
-      <img class="icon" src="./assets/tech/pl-sql.png" alt="pl-sql" width="50" height="50" />
-      <img class="icon" src="./assets/tech/php.png" alt="php" width="50" height="50" />
-      <img class="icon" src="./assets/tech/oracle-db.png" alt="oracle-db" width="50" height="50" />
-      <img class="icon" src="./assets/tech/nodejs.png" alt="nodejs" width="50" height="50" />
-      <img class="icon" src="./assets/tech/nextjs.png" alt="nextjs" width="50" height="50" />
-      <img class="icon" src="./assets/tech/mysql.png" alt="mysql" width="50" height="50" />
-      <img class="icon" src="./assets/tech/mui.png" alt="mui" width="50" height="50" />
-      <img class="icon" src="./assets/tech/mongoose.png" alt="mongoose" width="50" height="50" />
-      <img class="icon" src="./assets/tech/mongodb.png" alt="mongodb" width="50" height="50" />
-      <img class="icon" src="./assets/tech/laravel.png" alt="laravel" width="50" height="50" />
-      <img class="icon" src="./assets/tech/kotlin.png" alt="kotlin" width="50" height="50" />
-      <img class="icon" src="./assets/tech/jwt.png" alt="jwt" width="50" height="50" />
-      <img class="icon" src="./assets/tech/json.png" alt="json" width="50" height="50" />
-      <img class="icon" src="./assets/tech/jinja.png" alt="jinja" width="50" height="50" />
-      <img class="icon" src="./assets/tech/jetbrains.png" alt="jetbrains" width="50" height="50" />
-      <img class="icon" src="./assets/tech/javascript.png" alt="javascript" width="50" height="50" />
-      <img class="icon" src="./assets/tech/java.png" alt="java" width="50" height="50" />
-      <img class="icon" src="./assets/tech/html.png" alt="html" width="50" height="50" />
-      <img class="icon" src="./assets/tech/go.png" alt="Go" width="50" height="50" />
-      <img class="icon" src="./assets/tech/gitlab.png" alt="gitlab" width="50" height="50" />
-      <img class="icon" src="./assets/tech/github.png" alt="github" width="50" height="50" />
-      <img class="icon" src="./assets/tech/git.png" alt="git" width="50" height="50" />
-      <img class="icon" src="./assets/tech/gcp.png" alt="gcp" width="50" height="50" />
-      <img class="icon" src="./assets/tech/fusejs.png" alt="fusejs" width="50" height="50" />
-      <img class="icon" src="./assets/tech/flask.png" alt="flask" width="50" height="50" />
-      <img class="icon" src="./assets/tech/file_plsql.png" alt="file_plsql" width="50" height="50" />
-      <img class="icon" src="./assets/tech/figma.png" alt="figma" width="50" height="50" />
-      <img class="icon" src="./assets/tech/expressjs.png" alt="expressjs" width="50" height="50" />
-      <img class="icon" src="./assets/tech/electrode_native.png" alt="electrode_native" width="50" height="50" />
-      <img class="icon" src="./assets/tech/echarts.png" alt="echarts" width="50" height="50" />
-      <img class="icon" src="./assets/tech/docker.png" alt="docker" width="50" height="50" />
-      <img class="icon" src="./assets/tech/cypressjs.png" alt="cypressjs" width="50" height="50" />
-      <img class="icon" src="./assets/tech/css.png" alt="css" width="50" height="50" />
-      <img class="icon" src="./assets/tech/circleci.png" alt="circleci" width="50" height="50" />
-      <img class="icon" src="./assets/tech/c.png" alt="c" width="50" height="50" />
-      <img class="icon" src="./assets/tech/bootstrap.png" alt="bootstrap" width="50" height="50" />
-      <img class="icon" src="./assets/tech/aws.png" alt="aws" width="50" height="50" />
-      <img class="icon" src="./assets/tech/angular.png" alt="Angular" width="50" height="50" />
-      <img class="icon" src="./assets/tech/android.png" alt="android" width="50" height="50" />
-      <img class="icon" src="./assets/tech/algolia.png" alt="algolia" width="50" height="50" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/xcode.png" alt="xcode" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/vscode.png" alt="vscode" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/typescript.png" alt="typescript" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/terraform.png" alt="terraform" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/tailwind.png" alt="tailwind" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/swift.png" alt="swift" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/sso.png" alt="sso" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/sqla.png" alt="sqla" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/sql-server.png" alt="sql-server" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/saml.png" alt="saml" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/reduxSaga.png" alt="reduxSaga" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/redux.png" alt="redux" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/redis.png" alt="redis" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/reactjs.png" alt="reactjs" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/react.png" alt="react" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/rabbitmq.png" alt="rabbitmq" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/python.png" alt="python" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/PostgreSQL.png" alt="PostgreSQL" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/pl-sql.png" alt="pl-sql" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/php.png" alt="php" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/oracle-db.png" alt="oracle-db" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/nodejs.png" alt="nodejs" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/nextjs.png" alt="nextjs" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/mysql.png" alt="mysql" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/mui.png" alt="mui" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/mongoose.png" alt="mongoose" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/mongodb.png" alt="mongodb" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/laravel.png" alt="laravel" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/kotlin.png" alt="kotlin" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/jwt.png" alt="jwt" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/json.png" alt="json" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/jinja.png" alt="jinja" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/jetbrains.png" alt="jetbrains" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/javascript.png" alt="javascript" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/java.png" alt="java" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/html.png" alt="html" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/Go.png" alt="Go" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/gitlab.png" alt="gitlab" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/github.png" alt="github" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/git.png" alt="git" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/gcp.png" alt="gcp" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/fusejs.png" alt="fusejs" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/flask.png" alt="flask" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/file_plsql.png" alt="file_plsql" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/figma.png" alt="figma" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/expressjs.png" alt="expressjs" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/electrode_native.png" alt="electrode_native" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/echarts.png" alt="echarts" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/docker.png" alt="docker" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/cypressjs.png" alt="cypressjs" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/css.png" alt="css" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/circleci.png" alt="circleci" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/c.png" alt="c" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/bootstrap.png" alt="bootstrap" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/aws.png" alt="aws" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/Angular.png" alt="Angular" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/android.png" alt="android" width="56" height="56" />
+      <img class="icon" src="https://raw.githubusercontent.com/saichandras/saichandras/main/assets/tech/algolia.png" alt="algolia" width="56" height="56" />
     </div>
   </foreignObject>
 </svg>
