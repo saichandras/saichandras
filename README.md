@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sai Chandra Sriram
+# 👋 Hey, I'm Sai Sriram
 
 🎯 I'm a Full Stack Engineer passionate about building resilient infrastructure, modern web apps, and AI-enhanced developer tools.  
 Whether I’m scaling Medicaid platforms for 1M+ records or embedding offline-first LLMs into internal workflows, I care deeply about delivering systems that are fast, secure, and meaningful to end users.
